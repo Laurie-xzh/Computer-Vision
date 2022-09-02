@@ -27,14 +27,31 @@ Below is the loss and accuracy curve of resnet18 and swin transformer on cat-dog
 
 ResNet18 curve:
 
-![](./imgs/ResNet19-cat-dog.png)
+![](./imgs/ResNet18-cat-dog.png)
 
 Swin Transformer curve:
 
 ![](./imgs/Swin_T.png)
+
+|Model | Accuracy | Parameters | 
+| :---- | ----: | :----: | 
+   ResNet18 | 0.966  | 11M
+   Swin Transformer | 0.996 | 28M 
+
 
 ## Fine-grained
 
 
 
 ## Multi-Label
+We use two methods : CNN and C-Tran
+
+CNN multi-clssifier:
+
+![](./imgs/CNN-multi.png)
+
+The dataset is 'Fashion Product Images' on Kaggle. Here is the effect demo:
+
+C-Tran:
+
+
