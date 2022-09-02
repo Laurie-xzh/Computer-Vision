@@ -40,6 +40,7 @@ Swin Transformer curve:
 
 
 ## Fine-grained
+We use ResNet-34 for feature detection.
 
 
 
