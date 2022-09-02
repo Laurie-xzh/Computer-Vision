@@ -1,1 +1,1 @@
-一些模型文件
+Some models used in cat-dog classification.
