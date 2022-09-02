@@ -50,8 +50,21 @@ CNN multi-clssifier:
 
 ![](./imgs/CNN-multi.png)
 
-The dataset is 'Fashion Product Images' on Kaggle. Here is the effect demo:
+The dataset is 'Fashion Product Images' on Kaggle. We used three labels: gender, articleType and baseColour. Here is the effect demo:
+
+|Category | Accuracy | 
+| :---- | ----: | 
+   gender | 0.64  
+   articleType |  0.89 
+   baseColour | 0.83  
 
 C-Tran:
+The structure of it is below:
 
+![](./imgs/C-Tran.png)
 
+|Index | Accuracy | 
+| :---- | ----: | 
+  mAP | 0.64  
+   CF1 |  0.89 
+   OF1 | 0.83  
