@@ -1,1 +1,1 @@
-从github官网上下载的
+.pth models downloaded from github
