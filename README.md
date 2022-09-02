@@ -50,7 +50,9 @@ CNN multi-clssifier:
 
 ![](./imgs/CNN-multi.png)
 
-The dataset is 'Fashion Product Images' on Kaggle. We used three labels: gender, articleType and baseColour. Here is the effect demo:
+The dataset is 'Fashion Product Images' on Kaggle. We used three labels: gender, articleType and baseColour. Here is the predict demo:
+
+![](./imgs/2.png)
 
 |Category | Accuracy | 
 | :---- | ----: | 
