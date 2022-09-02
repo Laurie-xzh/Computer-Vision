@@ -41,8 +41,9 @@ Swin Transformer curve:
 
 ## Fine-grained
 We use ResNet-34 for feature detection.
-Here is one result:
-![](./Fine-grained/result/samoyed.jpg)
+Here is one result, it is predicted as 'samoyed':
+
+![](./Fine_grained/result/samoyed.jpg)
 
 
 ## Multi-Label
