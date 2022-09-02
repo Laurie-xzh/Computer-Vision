@@ -41,7 +41,7 @@ Swin Transformer curve:
 
 ## Fine-grained
 We use ResNet-34 for feature detection.
-Here is one reult:
+Here is one result:
 ![](./Fine-grained/result/samoyed.jpg)
 
 
