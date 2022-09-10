@@ -1,5 +1,5 @@
 # Computer-Vision
-This is about Image classification.
+This is about Image classification. There are single-label, multi-label and fine-grained classification.
 All of the experiments are done in jupyer notebook, run the code block in every .ipynb blocks one by one to train and test the models.
 ## Basic Network
 Below is the structure of three different blocks in ResNet, GoogLeNet and ResNeXt.
